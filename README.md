@@ -9,9 +9,6 @@
  <img src="https://static.javatpoint.com/tutorial/machine-learning/images/k-nearest-neighbor-algorithm-for-machine-learning2.png"> <img src="#"> <img src="#"> <img src="#"> <img src="#">
 # Tech Used
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-      
-# Add More Details:
-Anything else that you want to add for users? You can write it here in markdown and see preview in real time. You can add anything that you want, for example
 
 ### You can add How to Setup:
 - Step 1: **Select the number K of the neighbors**<br/>
